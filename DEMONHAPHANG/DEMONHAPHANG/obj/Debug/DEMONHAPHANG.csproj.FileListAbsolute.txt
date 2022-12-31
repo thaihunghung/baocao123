@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\DEMONHAPHANG\DEMONHAPHANG\bin\Debug\DEMONHAPHANG.exe.config
+C:\Users\Admin\Desktop\DEMONHAPHANG\DEMONHAPHANG\bin\Debug\DEMONHAPHANG.exe
+C:\Users\Admin\Desktop\DEMONHAPHANG\DEMONHAPHANG\bin\Debug\DEMONHAPHANG.pdb
+C:\Users\Admin\Desktop\DEMONHAPHANG\DEMONHAPHANG\obj\Debug\DEMONHAPHANG.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\DEMONHAPHANG\DEMONHAPHANG\obj\Debug\DEMONHAPHANG.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\DEMONHAPHANG\DEMONHAPHANG\obj\Debug\DEMONHAPHANG.Form1.resources
+C:\Users\Admin\Desktop\DEMONHAPHANG\DEMONHAPHANG\obj\Debug\DEMONHAPHANG.Properties.Resources.resources
+C:\Users\Admin\Desktop\DEMONHAPHANG\DEMONHAPHANG\obj\Debug\DEMONHAPHANG.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DEMONHAPHANG\DEMONHAPHANG\obj\Debug\DEMONHAPHANG.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DEMONHAPHANG\DEMONHAPHANG\obj\Debug\DEMONHAPHANG.exe
+C:\Users\Admin\Desktop\DEMONHAPHANG\DEMONHAPHANG\obj\Debug\DEMONHAPHANG.pdb
